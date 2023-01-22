@@ -1,8 +1,8 @@
 # 🚀PAINEL WEB V5 - MOD
 
-<h3><b>👉 Sistema Suportado: (UBUNTU 18.04)</br>
+<h3><b>👉 Sistema Recomendado: (UBUNTU 18.04)</br>
 👇 Vps recomendada: </br>
-🏆 AVIRA HOST: https://bit.ly/AviraHostPweb</b></h3>
+🏆 AVIRA HOST: https://www.avirahost.com.br</b></h3>
 </br>
 
 # 🚀COMANDO DE INSTALAÇÃO, SÓ COPIAR E COLAR:
@@ -31,4 +31,4 @@ apt install wget -y; bash <(wget -qO- https://github.com/cloudnetbr/Painelweb/ra
 ![Screenshot_2](https://user-images.githubusercontent.com/105602625/195569126-7334db72-c314-4989-a755-c6c7bf949401.jpg)
 
 
-# Painelweb
+# PainelWebTech-Cloud
